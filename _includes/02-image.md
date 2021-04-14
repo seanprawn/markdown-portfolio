@@ -1,1 +1,1 @@
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of StormTrooper cat](https://octodex.github.com/images/stormtroopocat.png)
